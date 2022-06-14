@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sultonbekov Sarvarbek (@s_sarvar)
+- 👋 Hi, I’m Sultonbekov Sarvarbek
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning shopify
 - 💞️ I’m looking to collaborate on something big
 - 📫 How to reach me (Telegram: @s_sarvar, Email: sarvarsarvar944@gmail.com)
 
