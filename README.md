@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sultonbekov Sarvarbek
 - 👀 I’m interested in web dev
 - 💞️ I’m looking to collaborate on something big
-- 📫 How to reach me (Telegram: @s_sarvar, Email: sarvarsarvar944@gmail.com)
+- 📫 How to reach me (Telegram: @s_sarvar)
 
 <!---
 SultonbekovSarvarbek/SultonbekovSarvarbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
